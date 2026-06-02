@@ -1,0 +1,14 @@
+# Setup scripts
+setup-git-ssh.ps1
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
